@@ -13,8 +13,7 @@ npm i
 npm run dev
 ```
 ## Project Demo Videos
-https://drive.google.com/file/d/1hIvi4A1vw_TaM6dGjRfHLbokOZKJkAjh/view?usp=sharing
-
+https://drive.google.com/drive/folders/12rUjCbas1zYovPfLsSzybq5DTE5eS3oO?usp=sharing
 ## Sample .env File
 ```js
 DATABASE_URL="mongodb+srv://username:password@cluster0.6wwbdip.mongodb.net/test"
