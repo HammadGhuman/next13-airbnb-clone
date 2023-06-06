@@ -1,6 +1,6 @@
 # AirBnb Clone NEXT.JS 13 
 ## _NEXTJS,NextAuth,Typescript,Tailwindcss,MongoDb,Prisma,_
-# Technologies Used
+# Tech Stack
 [![Technologies](https://skills.thijs.gg/icons?i=next,tailwindcss,typescript,mongodb,prisma)](https://skills.thijs.gg)
 
 
